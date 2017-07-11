@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="display" type="JavaScript" />
       <mapping pattern="SchereSteinPapier" type="JavaScript" />
+      <mapping pattern="test" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
